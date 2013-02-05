@@ -1,4 +1,10 @@
 <?php
+/*
+	Plugin name: Google analytics
+	Copyright: Copyright (C) 2013 JSC "Insightio"
+	License: MIT, see README.md
+*/
+
 namespace Modules\standard\google_analytics;     
 
 if (!defined('CMS')) exit;
