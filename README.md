@@ -5,15 +5,15 @@ without file editing.
 
 ## Installation
 
-1. Upload this plugin "standard" folder to "ip_plugins/" directory of your website.
+1. Upload "standard" folder to "ip_plugins/" directory
 2. Login to administration area
-3. Go to "Developer -> Modules" and press "install" on google analytics plugin.
+3. Go to "Developer -> Modules" and press "install" on google analytics plugin
 
 ## Usage
 
-1. Navigate throught menu "Standard" -> "Configuration".
+1. Navigate throught the menu "Standard" -> "Configuration"
 2. Then press on "Google analytics" and go deeper to the "Options" group
-3. There will be able to enable/disable plugin and change tracking code
+3. There you will be able to enable/disable plugin and change tracking code
 
 ## Copyright / License
 
