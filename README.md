@@ -11,15 +11,15 @@ without file editing.
 
 ## Usage
 
-1. Navigate throught the menu "Standard" -> "Configuration"
-2. Then press on "Google analytics" and go deeper to the "Options" group
-3. There you will be able to enable/disable plugin and change tracking code
+1. Navigate through the menu: "Standard" -> "Configuration"
+2. Click on "Google analytics" and select "Options" group
+3. There you will be able to enable/disable plugin and change the tracking code
 
 ## Copyright / License
 
 The MIT License
 
-Copyright 2013 JSC "Insightio"
+Copyright 2013 JSC "Insightio" ( http://www.insightio.lt / http://www.insightio.co.uk )
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
